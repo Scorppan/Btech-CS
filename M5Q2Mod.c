@@ -1,3 +1,6 @@
+/*This code needed to ran with two files in the same folder as this so it can copy the content fron file to another one 
+So make two file with two names and extention .exe then try running this code
+the M5Q2.c is there but it won't run proppery but the syllabus writen code is that for your refference*/
 #include <stdio.h>
 #include <stdlib.h>
 
